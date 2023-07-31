@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: #56b1d4;
+    display: flex;
+    justify-content: space-around;
+    font-size: 24px;
+}
+.cabeçalho-lista-item{
+    display: inline-block;
+    margin: 0 28px;
+}
